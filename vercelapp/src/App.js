@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deployment into new Vercel Application
+          Deployment intonew Vercel Application
         </a>
       </header>
     </div>
